@@ -2,7 +2,7 @@
 
 - A primeira coisa que quase todo analista de segurança júnior (associado) faz em seu turno é examinar os tíquetes para ver se algum alerta foi gerado.
 
- <img src="https://github.com/user-attachments/assets/6a0b30bc-761d-4934-bc85-c033aecf1062 " width="200"/>
+ <img src="https://github.com/user-attachments/assets/6a0b30bc-761d-4934-bc85-c033aecf1062 " width="500"/>
 
 ---
 
