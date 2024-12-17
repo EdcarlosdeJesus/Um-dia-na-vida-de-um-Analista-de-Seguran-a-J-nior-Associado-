@@ -7,14 +7,14 @@
 
 Qual era o endereço IP malicioso nos alertas?
 
--221.181.185.159
+  - 221.181.185.159
 
 ![image](https://github.com/user-attachments/assets/c782407d-1ff2-4297-a699-bc9506953aa7)
 
 ---
-Não devemos nos preocupar muito se foi uma tentativa de autenticação com falha, mas você provavelmente notou a tentativa de autenticação bem-sucedida do endereço IP malicioso. Vamos declarar um pequeno evento de incidente e escalá-lo.
+  Não devemos nos preocupar muito se foi uma tentativa de autenticação com falha, mas você provavelmente notou a tentativa de autenticação bem-sucedida do endereço IP malicioso. Vamos declarar um pequeno evento de incidente e escalá-lo.
 
-Para quem você encaminhou o evento associado ao endereço IP malicioso?
+ Para quem você encaminhou o evento associado ao endereço IP malicioso?
  - SOC Team Lead
 
 ![image](https://github.com/user-attachments/assets/294b27fd-612f-4317-af58-3552656c8283)
@@ -22,6 +22,7 @@ Para quem você encaminhou o evento associado ao endereço IP malicioso?
 
 
 *Curiosidade*
+
 Existem muitos bancos de dados de código aberto por aí, como *AbuseIPDB*, *Cisco Talos Intelligence*, onde você pode executar uma verificação de reputação e localização para o endereço IP. A maioria dos analistas de segurança usa essas ferramentas para ajudá-los com investigações de alerta. Você também pode tornar a Internet mais segura relatando os IPs maliciosos, por exemplo, no *AbuseIPDB*. 
 
 ---
@@ -33,7 +34,11 @@ Existem muitos bancos de dados de código aberto por aí, como *AbuseIPDB*, *Cis
 ![image](https://github.com/user-attachments/assets/8167740a-fabd-45c2-9a95-f9a7522d6cd4)
 
 
+---
 
-Depois de bloquear o endereço IP malicioso no firewall, que mensagem o agente mal-intencionado deixou para você?
- - 
+ Assim realizamos nosso primeiro lab simples mas bem esclarecedor sobre o básico no dia de uma Analista soc 1.
+ 
+![image](https://github.com/user-attachments/assets/453f1952-3826-4aab-abc3-441d6a76874a)
+
+
 
