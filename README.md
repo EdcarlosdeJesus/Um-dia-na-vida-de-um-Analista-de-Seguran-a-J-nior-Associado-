@@ -10,7 +10,7 @@
 
   - 221.181.185.159
 
- <img src="https://github.com/user-attachments/assets/c782407d-1ff2-4297-a699-bc9506953aa7" width="200"/>
+ <img src="https://github.com/user-attachments/assets/c782407d-1ff2-4297-a699-bc9506953aa7" width="500"/>
 
 
 ---
@@ -19,8 +19,8 @@
 ➡️ Para quem você encaminhou o evento associado ao endereço IP malicioso?
  - SOC Team Lead
 
-<img src="https://github.com/user-attachments/assets/294b27fd-612f-4317-af58-3552656c8283" width="200"/>
-<img src="https://github.com/user-attachments/assets/fc1a8f6c-8549-4503-a2c2-88f1b6af6207" width="200"/>
+<img src="https://github.com/user-attachments/assets/294b27fd-612f-4317-af58-3552656c8283" width="500"/>
+<img src="https://github.com/user-attachments/assets/fc1a8f6c-8549-4503-a2c2-88f1b6af6207" width="500"/>
 
 
 🔰 *Curiosidade*
@@ -34,14 +34,14 @@ Existem muitos bancos de dados de código aberto por aí, como *AbuseIPDB*, *Cis
  - Você obteve permissão para bloquear o endereço IP malicioso, e agora pode prosseguir e implementar a regra de bloqueio. Bloqueie o endereço IP malicioso no firewall e descubra qual mensagem eles deixaram para você.
  Na imagem a baixo fizemos o bloqueio do ip malicioso no Firewall.
 
-<img src="https://github.com/user-attachments/assets/8167740a-fabd-45c2-9a95-f9a7522d6cd4" width="200"/>
+<img src="https://github.com/user-attachments/assets/8167740a-fabd-45c2-9a95-f9a7522d6cd4" width="500"/>
 
 
 ---
 
  Assim realizamos nosso primeiro lab simples mas bem esclarecedor sobre o básico no dia de uma Analista soc 1.
  
-<img src="https://github.com/user-attachments/assets/453f1952-3826-4aab-abc3-441d6a76874a" width="200"/>
+<img src="https://github.com/user-attachments/assets/453f1952-3826-4aab-abc3-441d6a76874a" width="500"/>
 
 
 
